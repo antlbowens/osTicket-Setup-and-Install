@@ -50,3 +50,4 @@ This tutorial walks through how to setup and install the open source osTicket he
   <img width="1123" height="632" alt="Phase 6" src="https://github.com/user-attachments/assets/68a9d830-876c-48c5-80b4-bd74fdf61c86" />
 
   ## Phase 7
+  
