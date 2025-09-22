@@ -21,6 +21,13 @@ This tutorial walks through how to setup and install the open source osTicket he
 - Phase 4
 - Phase 5
 - Phase 6
+- Phase 7
+- Phase 8
+- Phase 9
+- Phase 10
+- Phase 11
+- Phase 12
+- Phase 13 
 
   # Deployment and Phases
 
