@@ -39,7 +39,14 @@ This tutorial walks through how to setup and install the open source osTicket he
 
   ## Phase 4
   - Once your in copy and paste this link https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0 into your Microsoft Edge Browser and dowload the file and extract it all within your file explorer
+  <img width="2558" height="1386" alt="phase 4" src="https://github.com/user-attachments/assets/5037054b-b48a-4b2f-8b01-eff9a851376a" />
 
-  
-  
+  ## Phase 5
+  - Now go to Control Panel> Programs and Features > Turn Windows Features on or off > Internet Information Services > World Wide Web Services > Application Development Featurs > [X] CGI > click ok and let it finish and exit
+  <img width="2556" height="1384" alt="Screenshot 2025-09-22 175612" src="https://github.com/user-attachments/assets/ed3aa915-0116-4720-9f3b-bf3d09adaf34" />
 
+  ## Phase 6
+  - From the osTicket-Installation-Files folder install the PHP Manager for IIS and the Rewrite Module ( Not the Zips)
+  <img width="1123" height="632" alt="Phase 6" src="https://github.com/user-attachments/assets/68a9d830-876c-48c5-80b4-bd74fdf61c86" />
+
+  ## Phase 7
