@@ -15,19 +15,7 @@ This tutorial walks through how to setup and install the open source osTicket he
 - Windows 11 24h2 Pro
 
 # Overview of Deployment and Phases
-- Phase 1
-- Phase 2
-- Phase 3
-- Phase 4
-- Phase 5
-- Phase 6
-- Phase 7
-- Phase 8
-- Phase 9
-- Phase 10
-- Phase 11
-- Phase 12
-- Phase 13 
+- Phase 1-25
 
   # Deployment and Phases
 
@@ -57,4 +45,55 @@ This tutorial walks through how to setup and install the open source osTicket he
   <img width="1123" height="632" alt="Phase 6" src="https://github.com/user-attachments/assets/68a9d830-876c-48c5-80b4-bd74fdf61c86" />
 
   ## Phase 7
-  
+  - Create the directory C:\PHP create a new folder> name it PHP within your C drive
+  - From the osTicket-Installation-Files folder unzip PHP 7.3.8 into the C:\PHP folder
+  <img width="1124" height="631" alt="Screenshot 2025-09-22 180630" src="https://github.com/user-attachments/assets/7d1b649d-9c3f-447f-99d9-fc64143cd6f9" />
+
+  ## Phase 8
+  - From the osTicket-Installation-Files folder install VC_redist.x86.exe
+  <img width="1125" height="626" alt="Screenshot 2025-09-22 180749" src="https://github.com/user-attachments/assets/3ea4177c-1450-4806-914a-804a86b7b4ff" />
+
+  ## Phase 9
+  - (A) From osTicket-Installation-Files folder install MySQL 5.5.62 > Typical Setupp > Launch Config Wizard > Standard Config
+  <img width="1120" height="629" alt="Screenshot 2025-09-22 181031" src="https://github.com/user-attachments/assets/4132e173-12b7-4b5b-8450-85b996b86c4a" />
+  - (B) In the Standard Config portion for your Username: root and Password: root use these two to easily remember what they are
+  <img width="1224" height="666" alt="Phase 9 (2)" src="https://github.com/user-attachments/assets/4690e8b7-3136-4327-a28f-5376ffb4c461" />
+
+## Phase 10
+- Open IIS as an Admin and register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe)
+<img width="2311" height="1234" alt="Screenshot 2025-10-13 151013" src="https://github.com/user-attachments/assets/ad2feb6c-5fbd-4c99-9528-a623d1843f31" />
+
+## Phase 11
+- Within IIS reload it by opening IIS and stopping the server and then starting the server
+<img width="2065" height="1106" alt="Screenshot 2025-10-13 151628" src="https://github.com/user-attachments/assets/8eb54a2a-2419-492c-a4c9-eac4a863f65f" />
+
+## Phase 12
+- Install osTicket v1.15.8 by going to to the "osTicket-Installation-Files" folder unzip the "osTicket-v1.15.8" zip and copy the "upload" folder into the "c:\inetpub\wwwroot" and rename it "osTicket"
+<img width="2318" height="1096" alt="Screenshot 2025-10-13 151646" src="https://github.com/user-attachments/assets/8e27aee7-34c1-4352-82ad-99b4a3357b31" />
+
+## Phase 13
+- Reload IIS (Open IIS, Stop and Start the server
+<img width="2065" height="1106" alt="Phase 11" src="https://github.com/user-attachments/assets/6b112a74-ec52-4388-be2a-0d8a9d7a543f" />
+
+## Phase 14
+- Go to Sites -> default -> osTicket and on the far right click "Browse *:80"
+<img width="2061" height="1111" alt="Phase 14" src="https://github.com/user-attachments/assets/1bf23f50-3829-413f-a011-27575326175f" />
+
+## Phase 15
+- After pulling up osTicket you note that some extensions are not enabled within osTicket
+<img width="2420" height="1164" alt="Screenshot 2025-10-13 151848" src="https://github.com/user-attachments/assets/c9bd0f9c-5c1b-4b08-8011-a958b6feb563" />
+
+## Phase 16
+- Go back to IIS, sites -> Default -> osTicket
+- Double-click PHP Manager
+- Click "Enable or disable an extension "
+- Enable: php_imap.dll, php_intl.dll, php_opcache.dll
+<img width="1877" height="1073" alt="Screenshot 2025-10-13 151926" src="https://github.com/user-attachments/assets/c9a9d639-ce68-46d9-bd3c-0f2d55d3b7d7" />
+<img width="1959" height="1080" alt="Screenshot 2025-10-13 152005" src="https://github.com/user-attachments/assets/f1187df4-3fb9-4575-8964-e53b22a27692" />
+
+## Phase 17
+- Refresh the osTicket site in your browser and observe the changes
+<img width="1101" height="985" alt="Screenshot 2025-10-13 152032" src="https://github.com/user-attachments/assets/466757cf-c26a-42e4-9ce9-945b435c594e" />
+
+
+
