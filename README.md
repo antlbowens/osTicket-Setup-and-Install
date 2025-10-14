@@ -141,7 +141,7 @@ The goal of this lab was to practice web server administration (IIS), database m
 
 ## Phase 21
 - Now from the "osTicket-Installation-Files" folder install HeidiSQL
-- Open HeidiSQL -> skip through and install -> create a new session user: root pass: root -> connnect to the session -> create a database called "osTicket"
+- Open HeidiSQL -> skip through and install -> create a new session user: root pass: root -> connect to the session -> create a database called "osTicket"
 
 <img width="800" height="800" alt="Phase 21" src="https://github.com/user-attachments/assets/2921a9e4-15aa-4798-86ef-f6c44908d917" />
 
@@ -149,7 +149,7 @@ The goal of this lab was to practice web server administration (IIS), database m
 - Continue setting up osTicket in the browser and filling everything in and at the bottom portion fill in as this
 - MySQL Database: osTicket
   MySQL Username: root
-  MySQL Passsword: root
+  MySQL Password: root
 - Click Install now
 
 <img width="800" height="800" alt="Phase 20" src="https://github.com/user-attachments/assets/62412c1b-9cb9-4909-a1ac-9a8f76c948c0" />
