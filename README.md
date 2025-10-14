@@ -51,7 +51,7 @@ The goal of this lab was to practice web server administration (IIS), database m
   <img width="800" height="800" alt="phase 4" src="https://github.com/user-attachments/assets/5037054b-b48a-4b2f-8b01-eff9a851376a" />
 
   ## Phase 5
-  - Now go to Control Panel> Programs and Features > Turn Windows Features on or off > Internet Information Services > World Wide Web Services > Application Development Featurs > [X] CGI > click OK,let it finish, and exit
+  - Now go to Control Panel> Programs and Features > Turn Windows Features on or off > Internet Information Services > World Wide Web Services > Application Development Features > [X] CGI > click OK,let it finish, and exit
   
   <img width="800" height="800" alt="Screenshot 2025-09-22 175612" src="https://github.com/user-attachments/assets/ed3aa915-0116-4720-9f3b-bf3d09adaf34" />
 
