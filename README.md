@@ -18,7 +18,7 @@ The goal of this lab was to practice web server administration (IIS), database m
 - <a href="https://azure.microsoft.com/en-us"> Microsoft Azure (Virtual Machines/Compute)
 - <a href="https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c"> Remote Desktop
 - Internet Information Services (IIS)
-- Windows 11 Pro (24h2)
+- Windows 11 Pro (24H2)
 - PHP 7.3.8
 - MySQL 5.5.62
 - HeidiSQL
@@ -46,17 +46,17 @@ The goal of this lab was to practice web server administration (IIS), database m
   <img width="800" height="800" alt="3" src="https://github.com/user-attachments/assets/ae4c5cbe-8083-4d1f-8216-b62ed6bdd954" />
 
   ## Phase 4
-  - Once your in copy and paste this link https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0 into your Microsoft Edge Browser and dowload the file and extract it all within your file explorer
+  - Once your in, copy and paste this link https://drive.usercontent.google.com/download?id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD&export=download&authuser=0 into your Microsoft Edge Browser and download the file and extract it all within your file explorer
   
   <img width="800" height="800" alt="phase 4" src="https://github.com/user-attachments/assets/5037054b-b48a-4b2f-8b01-eff9a851376a" />
 
   ## Phase 5
-  - Now go to Control Panel> Programs and Features > Turn Windows Features on or off > Internet Information Services > World Wide Web Services > Application Development Featurs > [X] CGI > click ok and let it finish and exit
+  - Now go to Control Panel> Programs and Features > Turn Windows Features on or off > Internet Information Services > World Wide Web Services > Application Development Featurs > [X] CGI > click OK,let it finish, and exit
   
   <img width="800" height="800" alt="Screenshot 2025-09-22 175612" src="https://github.com/user-attachments/assets/ed3aa915-0116-4720-9f3b-bf3d09adaf34" />
 
   ## Phase 6
-  - From the osTicket-Installation-Files folder install the PHP Manager for IIS and the Rewrite Module ( Not the Zips)
+  - From the osTicket-Installation-Files folder install the PHP Manager for IIS and the Rewrite Module ( Not the ZIPs)
   
   <img width="800" height="800" alt="Phase 6" src="https://github.com/user-attachments/assets/68a9d830-876c-48c5-80b4-bd74fdf61c86" />
 
