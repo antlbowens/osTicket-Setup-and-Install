@@ -72,7 +72,7 @@ The goal of this lab was to practice web server administration (IIS), database m
   <img width="800" height="800" alt="Screenshot 2025-09-22 180749" src="https://github.com/user-attachments/assets/3ea4177c-1450-4806-914a-804a86b7b4ff" />
 
   ## Phase 9
-  - (A) From osTicket-Installation-Files folder install MySQL 5.5.62 > Typical Setupp > Launch Config Wizard > Standard Config
+  - (A) From osTicket-Installation-Files folder install MySQL 5.5.62 > Typical Setup > Launch Config Wizard > Standard Config
   
   <img width="800" height="800" alt="Screenshot 2025-09-22 181031" src="https://github.com/user-attachments/assets/4132e173-12b7-4b5b-8450-85b996b86c4a" />
   - (B) In the Standard Config portion for your Username: root and Password: root use these two to easily remember what they are
