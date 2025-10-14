@@ -155,7 +155,8 @@ The goal of this lab was to practice web server administration (IIS), database m
 
 <img width="800" height="800" alt="Phase 20" src="https://github.com/user-attachments/assets/62412c1b-9cb9-4909-a1ac-9a8f76c948c0" />
 
-# Congratulations you have sucessfully installed osTicket and now have your very own ticketing system sandbox 
+# Result / Final Screenshot
+Below is the completed osTicket dashboard showing a successful deployment
 
 <img width="800" height="800" alt="Screenshot 2025-10-13 163510" src="https://github.com/user-attachments/assets/15fc00d6-3f86-49b1-9a08-186bff7ed4e0" />
 
