@@ -96,3 +96,33 @@ This tutorial walks through how to setup and install the open source osTicket he
 <img width="800" height="800" alt="Screenshot 2025-10-13 152032" src="https://github.com/user-attachments/assets/466757cf-c26a-42e4-9ce9-945b435c594e" />
 
 ## Phase 18
+- Rename C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php as shown below
+<img width="800" height="800" alt="Phase 18" src="https://github.com/user-attachments/assets/66fe5abc-1b07-4bee-b5cd-87cfed5b9714" />
+
+## Phase 19
+- Assign permissions within ost-config.php -> disable Inheritance -> remove all -> new permissions -> everyone -> all like below
+<img width="800" height="800" alt="Screenshot 2025-10-13 161413" src="https://github.com/user-attachments/assets/44426884-a441-4b5d-b500-97a3ad659f4d" />
+<img width="800" height="800" alt="Screenshot 2025-10-13 161542" src="https://github.com/user-attachments/assets/9311b7f9-1623-4f14-9f8a-efc270d140b5" />
+
+## Phase 20
+- Continue to set up osTicket within the browser giving it a name and using a random email of your choice
+<img width="800" height="800" alt="Phase 20" src="https://github.com/user-attachments/assets/c93e6e35-6ff9-4a9e-b6e9-7c2521fb186f" />
+
+## Phase 21
+- Now from the "osTicket-Installation-Files" folder install HeidiSQL
+- Open HeidiSQL -> skip through and install -> create a new session user: root pass: root -> connnect to the session -> create a database called "osTicket"
+<img width="800" height="800" alt="Phase 21" src="https://github.com/user-attachments/assets/2921a9e4-15aa-4798-86ef-f6c44908d917" />
+
+## Phase 22 ( Last Phase )
+- Continue setting up osTicket in the browser and filling everything in and at the bottom portion fill in as this
+- MySQL Database: osTicket
+  MySQL Username: root
+  MySQL Passsword: root
+- Click Install now 
+<img width="800" height="800" alt="Phase 20" src="https://github.com/user-attachments/assets/62412c1b-9cb9-4909-a1ac-9a8f76c948c0" />
+
+# Congratulations you have sucessfully installed osTicket and now have your very own ticketing system sandbox 
+<img width="800" height="800" alt="Screenshot 2025-10-13 163510" src="https://github.com/user-attachments/assets/15fc00d6-3f86-49b1-9a08-186bff7ed4e0" />
+
+
+
