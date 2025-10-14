@@ -7,7 +7,7 @@ This project demonstrates how I deployed and configured the open-source osTicket
 The goal of this lab was to practice web server administration (IIS), database management (MySQL), and application deployment.
 <br />
 
-# Skill Demonstrated
+# Skills Demonstrated
 - Cloud Computing (Microsoft Azure VM setup)
 - Web Server Administration (IIS configuration)
 - PHP and MySQL Integration
@@ -25,9 +25,8 @@ The goal of this lab was to practice web server administration (IIS), database m
 - PHP Manager for IIS
 - Rewrite Module for IIS
 
-# Overview of Deployment and Phases
-- Phase 1-25
-
+# Deployment and Phases Overview
+- Below are the main steps (Phases 1-22) I followed to fully deploy osTicket.
   # Deployment and Phases
 
   ## Phase 1
