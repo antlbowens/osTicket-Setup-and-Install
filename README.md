@@ -165,6 +165,8 @@ The goal of this lab was to practice web server administration (IIS), database m
 
 # Result / Final Screenshot
 Below is the completed osTicket dashboard showing a successful deployment
+links to help desk login page: : http://localhost/osTicket/scp/login.php
+end users osTicket Url:  http://localhost/osTicket/
 
 <img width="800" height="800" alt="Screenshot 2025-10-13 163510" src="https://github.com/user-attachments/assets/15fc00d6-3f86-49b1-9a08-186bff7ed4e0" />
 
