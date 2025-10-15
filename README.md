@@ -145,7 +145,7 @@ The goal of this lab was to practice web server administration (IIS), database m
 
 <img width="800" height="800" alt="Phase 21" src="https://github.com/user-attachments/assets/2921a9e4-15aa-4798-86ef-f6c44908d917" />
 
-## Phase 22 ( Last Phase )
+## Phase 22
 - Continue setting up osTicket in the browser and filling everything in and at the bottom portion fill in as this
 - MySQL Database: osTicket
   MySQL Username: root
@@ -153,6 +153,15 @@ The goal of this lab was to practice web server administration (IIS), database m
 - Click Install now
 
 <img width="800" height="800" alt="Phase 20" src="https://github.com/user-attachments/assets/62412c1b-9cb9-4909-a1ac-9a8f76c948c0" />
+
+## Phase 23 ( Last Phase )
+- Clean up
+- Delete: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+- set permissions to "Read" only:
+  C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+<img width="1832" height="980" alt="Screenshot 2025-10-15 192104" src="https://github.com/user-attachments/assets/9c23f3d7-4d7e-4584-a962-c5f93e0f4298" />
+
 
 # Result / Final Screenshot
 Below is the completed osTicket dashboard showing a successful deployment
