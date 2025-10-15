@@ -160,7 +160,7 @@ The goal of this lab was to practice web server administration (IIS), database m
 - set permissions to "Read" only:
   C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
-<img width="1832" height="980" alt="Screenshot 2025-10-15 192104" src="https://github.com/user-attachments/assets/9c23f3d7-4d7e-4584-a962-c5f93e0f4298" />
+<img width="800" height="800" alt="Screenshot 2025-10-15 192104" src="https://github.com/user-attachments/assets/9c23f3d7-4d7e-4584-a962-c5f93e0f4298" />
 
 
 # Result / Final Screenshot
