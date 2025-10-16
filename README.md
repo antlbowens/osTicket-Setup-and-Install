@@ -8,11 +8,11 @@ The goal of this lab was to practice web server administration (IIS), database m
 <br />
 
 # Skills Demonstrated
-- Cloud Computing (Microsoft Azure VM setup)
-- Web Server Administration (IIS configuration)
-- PHP and MySQL Integration
-- Application Deployment and Troubleshooting
-- Windows File Permissions and Security
+- Cloud Computing: Provisioned and managed a Microsoft Azure virtual machine
+- Web Server Administration: Installed and configured Internet Information Services (IIS)
+- Database Management: Set up and connected MySQL with PHP for osTicket functionality
+- Application Deployment: Installed and troubleshooted osTicket for stable operation
+- System Security: Managed Windows file permissions and post-install security hardening
 
 # Prerequisites
 - <a href="https://azure.microsoft.com/en-us"> Microsoft Azure (Virtual Machines/Compute)
